@@ -1,5 +1,5 @@
 
-👋 Hi! I'm a PhD student working on AI methods in the context of particle physics at the **Niels Bohr Institute, University of Copenhagen** Marie Skłodowska-Curie. My research is on data-driven approaches in particle physics to extract (un)conventional insights, uncover hidden patterns and fundamental physics 
+👋 👋 Hi! I'm a Marie Skłodowska-Curie PhD Fellow at the **Niels Bohr Institute, University of Copenhagen**, working on AI methods in particle physics. My research focuses on data-driven approaches to extract (un)conventional insights, uncover hidden patterns, and explore fundamental physics.
 
 ## 🔬 A problem I’m grappling with:
 Discovering astrophysical neutrino sources using transformer-based architectures
