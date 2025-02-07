@@ -15,7 +15,7 @@ Uncertainties in training datasets, especially MC simulations, and outputting cr
 ⚡ Contributing to the development of [DEIMOS](https://github.com/ts4051/deimos/tree/main) and [nuSQuIDS](https://github.com/ts4051/nuSQuIDS/tree/bsm) for the study of **Lorentz and CPT Violation:**
   - Implemented the Standard Model Extension (SME) framework to investigate the implications of potential violations of Lorentz and CPT invariance in neutrino physics.
 
-🧊 Angular Reconstruction of high-energy neutrinos observed by the IceCube collaboationhttps://www.deepl.com/en/write
+🧊 Angular Reconstruction of high-energy neutrinos observed by the IceCube collaboation
 
 🤐 A project I cannot describe without spoiling it.
 
